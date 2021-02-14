@@ -1,3 +1,3 @@
 # Code Challenges
 
-## [Java][/java/readme.md]
+## [Java](/java/readme.md)
