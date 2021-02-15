@@ -4,4 +4,8 @@
 
 https://www.hackerrank.com/domains/java
 
-- [Welcome to Java!](welcome-to-java.java)
+### Easy
+
+01. [Welcome to Java!](01-welcome-to-java.java)
+02. [Java Stdin and Stdout I](02-java-stdin-and-stdout-1.java)
+
