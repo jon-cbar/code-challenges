@@ -1,4 +1,4 @@
-function Day0DataTypes(secondInteger, secondDecimal, secondString) {
+function sumAndConcat(secondInteger, secondDecimal, secondString) {
     const firstInteger = 4;
     const firstDecimal = 4.0;
     const firstString = 'HackerRank ';
