@@ -8,7 +8,7 @@ public class JavaIfElse {
 
         String message = "";
 
-        if (value % 2 == 1)  {
+        if (value % 2 == 1) {
             // value is odd
             message = "Weird";
         } else if (value >= 2 && value <= 5) {
@@ -21,7 +21,7 @@ public class JavaIfElse {
             // value is even and greater than 20
             message = "Not Weird";
         }
-        
+
         System.out.println(message);
     }
 }

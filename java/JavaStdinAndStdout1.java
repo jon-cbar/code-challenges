@@ -10,7 +10,7 @@ public class JavaStdinAndStdout1 {
             value = scanner.nextInt();
             System.out.println(value);
         }
-        
+
         scanner.close();
     }
 }
