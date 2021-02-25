@@ -6,20 +6,20 @@ https://www.hackerrank.com/domains/tutorials/10-days-of-javascript
 
 ### Day 0
 
-- [Hello, World.](https://www.hackerrank.com/challenges/js10-hello-world) - [Solution](/day-0/HelloWorld.js)
-- [Data Types](https://www.hackerrank.com/challenges/js10-data-types) - [Solution](/day-0/DataTypes.js)
+- [Hello, World.](https://www.hackerrank.com/challenges/js10-hello-world) - [Solution](day-0/HelloWorld.js)
+- [Data Types](https://www.hackerrank.com/challenges/js10-data-types) - [Solution](day-0/DataTypes.js)
 
 ### Day 1
 
-- [Arithmetic Operators](https://www.hackerrank.com/challenges/js10-arithmetic-operators) - [Solution](/day-1/ArithmeticOperators.js)
-- [Functions](https://www.hackerrank.com/challenges/js10-function) - [Solution](/day-1/Functions.js)
-- [Let and Const](https://www.hackerrank.com/challenges/js10-let-and-const) - [Solution](/day-1/LetAndConst.js)
+- [Arithmetic Operators](https://www.hackerrank.com/challenges/js10-arithmetic-operators) - [Solution](day-1/ArithmeticOperators.js)
+- [Functions](https://www.hackerrank.com/challenges/js10-function) - [Solution](day-1/Functions.js)
+- [Let and Const](https://www.hackerrank.com/challenges/js10-let-and-const) - [Solution](day-1/LetAndConst.js)
 
 ### Day 2
 
-- [Conditional Statements: If-Else](https://www.hackerrank.com/challenges/js10-if-else) - [Solution](/day-2/ConditionalStatementsIfElse)
-- [Conditional Statements: Switch](https://www.hackerrank.com/challenges/js10-switch) - [Solution](/day-2/ConditionalStatementsSwitch.js)
-- [Loops](https://www.hackerrank.com/challenges/js10-loops) - [Solution](/day-2/Loops.js)
+- [Conditional Statements: If-Else](https://www.hackerrank.com/challenges/js10-if-else) - [Solution](day-2/ConditionalStatementsIfElse)
+- [Conditional Statements: Switch](https://www.hackerrank.com/challenges/js10-switch) - [Solution](day-2/ConditionalStatementsSwitch.js)
+- [Loops](https://www.hackerrank.com/challenges/js10-loops) - [Solution](day-2/Loops.js)
 
 ### Day 3
 
