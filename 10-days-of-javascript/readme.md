@@ -17,9 +17,9 @@ https://www.hackerrank.com/domains/tutorials/10-days-of-javascript
 
 ### Day 2
 
-- [Conditional Statements: If-Else](https://www.hackerrank.com/challenges/js10-if-else) - Solution
-- [Conditional Statements: Switch](https://www.hackerrank.com/challenges/js10-switch) - Solution
-- [Loops](https://www.hackerrank.com/challenges/js10-loops) - Solution
+- [Conditional Statements: If-Else](https://www.hackerrank.com/challenges/js10-if-else) - [Solution](Day2ConditionalStatementsIfElse)
+- [Conditional Statements: Switch](https://www.hackerrank.com/challenges/js10-switch) - [Solution](Day2ConditionalStatementsSwitch.js)
+- [Loops](https://www.hackerrank.com/challenges/js10-loops) - [Solution](Day2Loops.js)
 
 ### Day 3
 
