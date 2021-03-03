@@ -23,8 +23,8 @@ https://www.hackerrank.com/domains/tutorials/10-days-of-javascript
 
 ### Day 3
 
-- [Arrays](https://www.hackerrank.com/challenges/js10-arrays) - Solution
-- [Try, Catch, and Finally](https://www.hackerrank.com/challenges/js10-try-catch-and-finally) - Solution
+- [Arrays](https://www.hackerrank.com/challenges/js10-arrays) - [Solution](day-3/Arrays.js)
+- [Try, Catch, and Finally](https://www.hackerrank.com/challenges/js10-try-catch-and-finally) - [Solution](day-3/TryCatchAndFinally.js)
 - [Throw](https://www.hackerrank.com/challenges/js10-throw) - Solution
 
 ### Day 4

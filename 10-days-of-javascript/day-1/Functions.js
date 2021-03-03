@@ -1,8 +1,7 @@
 function factorial(n) {
+    let value = 1;
     if (n > 1) {
-        let value = n * factorial(n - 1);
-        return value;
-    } else {
-        return 1;
+        value = n * factorial(n - 1);
     }
+    return value;
 }
