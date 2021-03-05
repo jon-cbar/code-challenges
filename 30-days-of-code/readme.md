@@ -9,7 +9,7 @@ https://www.hackerrank.com/domains/tutorials/30-days-of-code
 - [Day 2: Operators](https://www.hackerrank.com/challenges/30-operators) - [Solution](Day2Operators.java)
 - [Day 3: Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements) - [Solution](Day3IntroToConditionalStatements.java)
 - [Day 4: Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance) - [Solution](Day4ClassVsInstance.java)
-- [Day 5: Loops]() - Solution
+- [Day 5: Loops](https://www.hackerrank.com/challenges/30-loops) - [Solution](Day5Loops.java)
 - [Day 6: Let's Review]() - Solution
 - [Day 7: Arrays]() - Solution
 - [Day 8: Dictionaries and Maps]() - Solution
