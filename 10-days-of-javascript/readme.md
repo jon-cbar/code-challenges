@@ -29,9 +29,9 @@ https://www.hackerrank.com/domains/tutorials/10-days-of-javascript
 
 ### Day 4
 
-- [Create a Rectangle Object](https://www.hackerrank.com/challenges/js10-objects) - Solution
-- [Count Objects](https://www.hackerrank.com/challenges/js10-count-objects) - Solution
-- [Classes](https://www.hackerrank.com/challenges/js10-class) - Solution
+- [Create a Rectangle Object](https://www.hackerrank.com/challenges/js10-objects) - [Solution](day-4/Objects.js)
+- [Count Objects](https://www.hackerrank.com/challenges/js10-count-objects) - [Solution](day-4/CountObjects.js)
+- [Classes](https://www.hackerrank.com/challenges/js10-class) - [Solution](day-4/Class.js)
 
 ### Day 5
 
